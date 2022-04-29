@@ -1,12 +1,12 @@
 #include <iostream>
 
-// #include <helpers/obstacle_map.h>
+#include <obstacle_map.h>
 
 
 
 int main (int argc, char *argv[]) 
 {
-  std::cout << "bobby" << std::endl;
+  std::cout << "bobby 1 2 3" << std::endl;
   
   return 0;
 }
